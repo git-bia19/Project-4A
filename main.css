@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(images/ezgif.com-resize.gif);
+    background-repeat: round;
+    width :1300px;
+    height :640px;
+}
+.wrapper{
+    width: 100%;
+    height:100%;
+}
+.submarine{
+    position: absolute;
+    top:0%;
+    right:70%;
+}
+.shark{
+    position: absolute;
+    bottom: 28%;
+    left: 75%;
+}
+.fish{
+    position: absolute;
+    bottom:2%;
+    right:60%;
+}
+.algae{
+    bottom:  -3%;
+     position: absolute;
+}
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #3f493f; 
+  }
+  .button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #d4532b; 
+  }
+  .button3{
+    background-color: white;
+    color: black;
+    border: 2px solid #3947c8; 
+  }.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #c2e71e; 
+  }
